@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Charles. I am a passionate, results-driven cybersecurity professional, transitioning into the cloud technology industry. I have over 16+ years of experience as a Cybersecurity Engineer. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
+Senior Cybersecurity & Systems Security Engineer with 20+ years of experience securing mission-critical, real-world systems across defense and aerospace environments. I am actively building and shipping in DevSecOps and cloud-native infrastructure. I am currently deepening my hands-on experience in DevSecOps and cloud infrastructure; focusing on AWS, Terraform, Docker, Kubernetes, CI/CD, and security-by-design to enable rapid, secure software delivery.
 
 Find out more about me & feel free to connect with me here on my journey to becoming a DevOps Cloud Engineer:
 
